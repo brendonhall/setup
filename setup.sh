@@ -47,4 +47,5 @@ ln -sb dotfiles/.bashrc_custom .
 ln -sf dotfiles/.emacs.d .
 ln -sb dotfiles/.emacs
 
-
+git config --global user.name brendonhall
+git config --global user.email brendon.hall@gmail.com
